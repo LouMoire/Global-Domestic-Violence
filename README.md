@@ -6,7 +6,7 @@ The goal of this exercise was to explore cross-country differences in social saf
 
 ## Visualization
 
-![Domestic Violence Chart](chart.png)
+![Domestic Violence Chart](Figure_1_2021_DomesticViolence_Top10.png)
 
 ## Tools Used
 - Python
